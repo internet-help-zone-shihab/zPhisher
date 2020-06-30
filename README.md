@@ -1,21 +1,3 @@
-<p align="left">
-<a href="#"><img title="Made in Bangladesh" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-<p align="center">
-<a href="#"><img title="Zphisher" src="https://raw.githubusercontent.com/Internet-help-zone-shihab/release-download/master/images/banner/zphisher.png"></a>
-</p>
-<p align="center">
-<a href="https://github.com/Internet-help-zone-shihab"><img title="Author" src="https://img.shields.io/badge/Author-htr--tech-red.svg?style=for-the-badge&logo=github"></a>
-<a href="#"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?style=for-the-badge"></a>
-</p>
-<p align="center">
-<a href="#"><img title="Version" src="https://img.shields.io/badge/Version-2.0-green.svg?style=flat-square"></a>
-<a href="#"><img title="Language" src="https://badges.frapsoft.com/bash/v1/bash.png?v=103"></a>
-<a href="https://github.com/htr-tech/followers"><img title="Followers" src="https://img.shields.io/github/followers/Internet-help-zone-shihab?color=blue&style=flat-square"></a>
-<a href="https://github.com/Internet-help-zone-shihab/zphisher/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Internet-help-zone-shihab/zphisher?color=red&style=flat-square"></a>
-<a href="https://github.com/Internet-help-zone-shihab/zphisher/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Internet-help-zone-shihab/zphisher?color=red&style=flat-square"></a>
-<a href="https://github.com/Internet-help-zone-shihab/zphisher/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Internet-help-zone-shihab/zphisher?label=Watchers&color=blue&style=flat-square"></a>
-</p>
 
 ## Installation :
 
